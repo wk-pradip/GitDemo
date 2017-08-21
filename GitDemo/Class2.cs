@@ -9,5 +9,7 @@ namespace GitDemo
 	class Class2
 	{
 		//Staged changes
+
+
 	}
 }
