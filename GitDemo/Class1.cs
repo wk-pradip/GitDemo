@@ -9,5 +9,6 @@ namespace GitDemo
 	class Class1
 	{
 		//Feature1 changes
+		//Third Stashed changes feature 2
 	}
 }
